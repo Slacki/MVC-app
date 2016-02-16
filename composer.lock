@@ -1,0 +1,54 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c7301bd1f9a20c1891d48d6b1d1a213b",
+    "content-hash": "b6ef06abab142130e4b288b52f1e6312",
+    "packages": [
+        {
+            "name": "Slacki/MVC",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Slacki/MVC.git",
+                "reference": "1256a663587fe3ecbf4f08e2b7456d42dfec211d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Slacki/MVC/zipball/1256a663587fe3ecbf4f08e2b7456d42dfec211d",
+                "reference": "1256a663587fe3ecbf4f08e2b7456d42dfec211d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Framework\\": "Framework/",
+                    "Tests\\": "Tests/",
+                    "TestApp\\": "Tests/TestApp/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "Kacper Czochara",
+                    "email": "kacperczochara@gmail.com"
+                }
+            ],
+            "description": "MVC pattern implementation",
+            "support": {
+                "source": "https://github.com/Slacki/MVC/tree/master",
+                "issues": "https://github.com/Slacki/MVC/issues"
+            },
+            "time": "2015-11-10 13:38:01"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
