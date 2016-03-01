@@ -4,21 +4,21 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "c7301bd1f9a20c1891d48d6b1d1a213b",
-    "content-hash": "b6ef06abab142130e4b288b52f1e6312",
+    "hash": "7510fbd001ede099f0231dce71fb64e3",
+    "content-hash": "3ad5cf02f529fa1fabff782012b8bef2",
     "packages": [
         {
             "name": "Slacki/MVC",
-            "version": "dev-master",
+            "version": "v0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Slacki/MVC.git",
-                "reference": "1256a663587fe3ecbf4f08e2b7456d42dfec211d"
+                "reference": "e80d44c8bcbee24ef7d43449ff3034c748061497"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Slacki/MVC/zipball/1256a663587fe3ecbf4f08e2b7456d42dfec211d",
-                "reference": "1256a663587fe3ecbf4f08e2b7456d42dfec211d",
+                "url": "https://api.github.com/repos/Slacki/MVC/zipball/e80d44c8bcbee24ef7d43449ff3034c748061497",
+                "reference": "e80d44c8bcbee24ef7d43449ff3034c748061497",
                 "shasum": ""
             },
             "type": "library",
@@ -37,10 +37,10 @@
             ],
             "description": "MVC pattern implementation",
             "support": {
-                "source": "https://github.com/Slacki/MVC/tree/master",
+                "source": "https://github.com/Slacki/MVC/tree/v0.2",
                 "issues": "https://github.com/Slacki/MVC/issues"
             },
-            "time": "2015-11-10 13:38:01"
+            "time": "2016-03-01 12:49:35"
         }
     ],
     "packages-dev": [],

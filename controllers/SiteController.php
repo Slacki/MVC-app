@@ -12,4 +12,9 @@ class SiteController extends Controller
         $view = new View();
         $view->render('site/index');
     }
+
+    public function actionView($id)
+    {
+        // you can access the ID taken from request here.
+    }
 }

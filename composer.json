@@ -16,7 +16,7 @@
     }
   ],
   "require" : {
-    "Slacki/MVC": "*"
+    "Slacki/MVC": "v0.2"
   },
   "autoload": {
     "psr-4": {
